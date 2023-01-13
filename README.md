@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khemais Kebaili</h1>
-<h3 align="center">Networks and telecommunications student | Cybersecurity enthusiast | Google DSC Core Team member</h3>
+<h3 align="center">Networks and telecommunications student | Cybersecurity enthusiast | Google DSC Cybersecurity Department Lead</h3>
 
 - 📫 How to reach me **khemaiskebaili@outlook.com**
 
