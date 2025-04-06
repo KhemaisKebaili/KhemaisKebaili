@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khemais Kebaili</h1>
-<h3 align="center">I'm a **trilingual DevOps and Software Engineer** from Tunisia, passionate about building secure, scalable systems. With a strong focus on **DevSecOps** and **cybersecurity**, I thrive on automating infrastructure, streamlining CI/CD pipelines, and enhancing system resilience.</h3>
+<h3 align="center">I'm a trilingual DevOps and Software Engineer from Tunisia, passionate about building secure, scalable systems. With a strong focus on DevSecOps and cybersecurity, I thrive on automating infrastructure, streamlining CI/CD pipelines, and enhancing system resilience.</h3>
 
 - 📫 How to reach me **khemais.kebaili@outlook.com**
 
